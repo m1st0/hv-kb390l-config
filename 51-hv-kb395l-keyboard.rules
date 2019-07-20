@@ -1,0 +1,5 @@
+# HAVIT KB395L keyboard write access
+
+ACTION=="add", SUBSYSTEM=="usb", ATTRS{idVendor}=="04d9", ATTRS{idProduct}=="a1dd", TAG+="uaccess"
+
+# vim: ft=udevrules

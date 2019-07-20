@@ -24,7 +24,7 @@
 #include <QThread>
 
 #define VENDOR  0x04D9
-#define PRODUCT 0xA131
+#define PRODUCT 0xA1DD
 #define GENERIC_USAGE_PAGE 0xFF01
 #define GENERIC_USAGE      0x0001
 #define EVENT_USAGE_PAGE   0xFF02
